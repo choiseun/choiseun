@@ -1,7 +1,5 @@
 ## Hi, I'm Seung Woo
 
----
-
 ### Data Scientist - Atlanta, GA
 
 - 🔭 Visit my portfolio at https://choiseun.github.io/
