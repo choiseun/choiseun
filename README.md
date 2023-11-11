@@ -1,8 +1,8 @@
-### <pre>Hi, I'm Seung Woo</pre>
+### Hi, I'm Seung Woo
 
 ---
 
-Data Scientist - Atlanta, GA
+**Data Scientist - Atlanta, GA**
 
 <!--
 **choiseun/choiseun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
