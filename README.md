@@ -5,6 +5,7 @@
 **Data Scientist - Atlanta, GA**
 
 - 🔭 Visit my portfolio at https://choiseun.github.io/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seung-woo-choi/) or c.seungwoo2@gmail.com
 
 
 <!--
