@@ -12,6 +12,8 @@
 
 ### Technical Skills
 
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)}" />
+
 - Python
 - R
 - SQL
