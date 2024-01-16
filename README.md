@@ -2,7 +2,7 @@
 
 ### Data Analyst - Atlanta, GA
 
-- Visit my data science portfolio [here](https://seungwoochoi.pythonanywhere.com/) 🔭
+- Visit my data science portfolio 🔭: [here](https://seungwoochoi.pythonanywhere.com/) 
 - How to reach me 📫: [LinkedIn](https://www.linkedin.com/in/seung-woo-choi/) or c.seungwoo2@gmail.com
 - Fun fact ⚡: Did you know that more data was created in the past two years than in all of human history combined up to that point?
 
