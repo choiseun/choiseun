@@ -1,6 +1,6 @@
 ## Hi, I'm Seung Woo
 
-### Experienced Data Analyst - Atlanta, GA
+### Data Analyst - Atlanta, GA
 
 - 🔭 Visit my portfolio at https://seungwoochoi.pythonanywhere.com/
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seung-woo-choi/) or c.seungwoo2@gmail.com
