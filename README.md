@@ -2,7 +2,9 @@
 
 ### Data Scientist - Atlanta, GA
 
-- To view my data science portfolio, click on any of the 6 project links below.
+Welcome to my data science portfolio page!
+
+- To view my data science portfolio, click on the links to any of the 6 projects below.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/seung-woo-choi/) or schoi361@gatech.edu
 - Fun fact: Did you know that more data was created in the past two years than in all of human history combined up to that point?
 
